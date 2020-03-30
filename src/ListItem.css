@@ -1,0 +1,10 @@
+.doneItem {
+    color:gray;
+}
+.unDoneItem{
+    color:green;
+    
+}
+p{
+    display:inline-block;
+}
